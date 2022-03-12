@@ -1,6 +1,6 @@
 # Online Knowledge Distillation for Efficient Pose Estimation (OKDHP)
 
-This is the pytorch implementation for the OKDHP.
+This is the pytorch implementation for OKDHP (ICCV 2021).
 This repository is extended based on [FPD](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch).
 
 Email: lizheng1@stu.hznu.edu.cn

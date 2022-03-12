@@ -38,3 +38,15 @@ In this code, you can reproduce the experiment results in the paper, including M
 ~~~
 sh start.sh
 ~~~
+
+## Citation
+
+~~~
+@inproceedings{li2021online,
+  title={Online Knowledge Distillation for Efficient Pose Estimation},
+  author={Li, Zheng and Ye, Jingwen and Song, Mingli and Huang, Ying and Pan, Zhigeng},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={11740--11750},
+  year={2021}
+}
+~~~

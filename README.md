@@ -3,8 +3,6 @@
 This is the pytorch implementation for OKDHP (ICCV 2021).
 This repository is extended based on [FPD](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch).
 
-Email: lizheng1@stu.hznu.edu.cn
-
 ## Abstract
 
 In this work, we investigate a novel Online Knowledge Distillation 
